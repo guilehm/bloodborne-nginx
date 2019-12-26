@@ -1,1 +1,1 @@
-web: /usr/bin/nginx -g "daemon off;"
+web: /usr/sbin/nginx -g "daemon off;"
