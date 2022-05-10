@@ -10,3 +10,4 @@ server {
 	proxy_pass https://gui-bloodborne.herokuapp.com;
     }
 }
+
